@@ -1,0 +1,370 @@
+/* font awesome cdn link */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css');
+
+/* google fonts cdn link */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+.body
+{
+    background-color:#804674;
+}
+
+/* .navbar-nav .nav-item .nav-link
+{
+    color: white;
+}
+ .navbar .navbar-brand
+ {
+    color: white;
+    /* font-style: italic; */
+    /* font-weight: bold;
+    font-size: 2rem;
+    font-family: Apple Chancery, cursive;
+ } */ 
+
+ #navbar{
+    background-color:#804674;
+    padding-left: 60px;
+    font-weight: bold;
+  }
+  #logo{
+    font-size: 23px;
+    color: white;
+  }
+  #logo img{
+    margin-bottom: 15px;
+  }
+  .navbar-nav{
+    margin-left: 10px;
+  }
+  .nav-link{
+    color: white;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+    margin-left: 15px;
+    transition: 0.5s ease;
+  }
+  .nav-link:hover{
+    background-color:#D8BFD8;
+    color: white;
+    border-radius: 5px;
+  }
+  .icons{
+    margin-left: 30px;
+  }
+  .icons img{
+    margin-left: 10px;
+    transition: 0.5s ease;
+    cursor: pointer;
+  }
+  .icons img:hover{
+    transform: translateY(-5px);
+  }
+  @media screen and (max-width:330px){
+    #logo{
+        font-size: 15px;
+    }
+  }
+  /* navbar end */
+  
+  .navbar-nav .nav-item .nav-link
+  {
+    color: white;
+  }
+  .navbar .navbar-brand
+  {
+    color: white;
+    /* font-style: italic; */
+    font-weight: bold;
+    font-size: 2rem;
+    font-family: Apple Chancery, cursive;
+  }
+
+#d1
+{
+    margin-left: 30rem;
+    font-size: 2rem;
+    color: white;
+    font-family: cursive;
+    padding-top: 5rem;
+}
+#d2
+{
+    margin-left: 35rem;
+    font-size: 2rem;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 2rem;
+    font-weight: bold;
+}
+
+#p1
+{
+    color: white;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 0;
+    float: left;
+}
+
+#d3
+{
+  float:left;
+}
+#ii2{
+    margin-left: 50px;
+}
+#pp2{
+    color: white;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 35px;
+    float: left;
+}
+#ii3{
+    margin-left: 50px;
+}
+#pp3{
+    color: white;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 75px;
+    float: left;
+}
+#ii4{
+    margin-left: 50px;
+}
+#pp4{
+    color: white;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: -35px;
+    /* float: left; */
+}
+#pp5{
+    color: white;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 150px;
+    /* float: left; */
+}
+#pp6{
+    color: white;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 0px;
+    /* float: left; */
+}
+#pp7{
+    color: white;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 35px;
+    /* float: left; */
+}
+#ii5{
+    margin-left: 160px;
+}
+#ii6{
+    margin-left: 120px;
+}
+#carousel{
+    padding-right:400px;
+    padding-left:400px;
+    padding-bottom:100px;
+}
+#img{
+    width:1500px;
+    height:500px;
+    padding-right:50px;
+    padding-left:50px;
+    padding-bottom:50px;
+}
+
+#d3
+{
+    float: left;
+    padding: 2rem;
+    margin-left: 1rem;
+}
+#ii1{
+    margin-left:35px ;
+}
+#d4
+{
+    float: left;
+    padding: 1.5rem;
+    margin-left: 1.3rem;
+}
+
+#d5
+{
+    float: left;
+    color: white;
+    margin-left: 0;
+    padding-right: 1rem;
+}
+
+a
+{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: white;
+}
+
+a:hover
+{
+    text-decoration: none;
+    color: white;
+}
+
+#img1
+{
+    margin-left: 5rem;
+}
+
+#p1
+{
+    font-size: 1.6rem;
+    /* font-family: cursive; */
+    text-align: center;
+}
+#fw{
+    font-size: 2rem;
+    color: white;
+    font-family:'Times New Roman', Times, serif;  
+    font-weight: bold; 
+    margin-left:700px ;
+}
+#fw1{
+    font-size: 2rem;
+    color: white;
+    font-family:'Times New Roman', Times, serif;  
+    font-weight: bold; 
+    margin-left:700px ;
+    padding-right: 10rem;
+}
+
+#one{
+    width:1000px;
+    height:300px;
+    padding-left:20px;
+    padding-bottom:50px;
+    animation-name:one;
+    animation-iteration-count:infinite;
+    animation-duration:5s;
+    animation-direction:normal
+}
+#two{
+    width:1000px;
+    height:300px;
+    padding-left:20px;
+    padding-bottom:50px;
+    animation-name:two;
+    animation-iteration-count:infinite;
+    animation-duration:5s;
+    animation-direction:normal
+}
+#three{
+    width:1000px;
+    height:300px;
+    padding-left:20px;
+    padding-bottom:50px;
+    animation-name:three;
+    animation-iteration-count:infinite;
+    animation-duration:5s;
+    animation-direction:normal
+}
+#four{
+    width:1000px;
+    height:300px;
+    padding-left:20px;
+    padding-bottom:50px;
+    animation-name:four;
+    animation-iteration-count:infinite;
+    animation-duration:5s;
+    animation-direction:normal
+}
+#five{
+    width:1000px;
+    height:300px;
+    padding-left:20px;
+    padding-bottom:50px;
+    animation-name:five;
+    animation-iteration-count:infinite;
+    animation-duration:5s;
+    animation-direction:normal
+}
+
+/* footer section */
+/* footer
+{
+    background-color: #400434;
+} */
+
+.footer .grid
+{
+    /* background-color: #400434; */
+    display: inline-flex;
+    grid-template-columns: repeat(auto-fit,25rem);
+    gap: 1rem;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 10rem;
+    margin-left: 10rem;
+}
+
+.footer .grid .box1 h3
+{
+    font-size: 2rem;
+    margin-left: 8rem;
+    color: white;
+    /* margin: 1rem 0; */
+    padding-bottom: 1rem;
+    text-transform: capitalize;
+}
+
+.footer .grid .box1 a
+{
+    display: block;
+    margin-left: 8rem;
+    padding: 1rem 0;
+    font-size: 1.5rem;
+    color: white;
+    text-decoration: none;
+}
+
+.footer .grid .box1 a i
+{
+    color: white;
+    margin-right: .8rem;
+    transition: .2s linear;
+}
+
+.footer .grid .box1 a:hover i
+{
+    margin-right: 2rem;
+}
+
+.footer .credit
+{
+    text-align: center;
+    padding: 5rem 3rem;
+    /* border-top: var(--border); */
+    /* background-color:#C71585; */
+    font-size: 2rem;
+    color: white;
+    line-height: 1.5;
+}
+
+.footer .credit span
+{
+    color: white;
+    text-transform: capitalize;
+}
